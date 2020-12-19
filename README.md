@@ -3,10 +3,10 @@ Assignments done during course Digital image processing at IIIT Hyderabad during
 
 ## Contents
 
-[ Assignment 0](./Assignment 0)
+**Assignment 0**
 * Basic image processing: OpenCV
 
-[ Assignment 1](./Assignment 1)
+**Assignment 1**
 * Chroma-keying
 * Bit-Quantization
 * Bit-plane slicing
@@ -16,7 +16,7 @@ Assignments done during course Digital image processing at IIIT Hyderabad during
 * Gamma Transformations
 * Examples: Concatenating image: relighting, retoning
 
-[ Assignment 2](./Assignment 2)
+**Assignment 2**
 * Linear spatial filters
 * low pass average
 * Median
@@ -38,7 +38,7 @@ Assignments done during course Digital image processing at IIIT Hyderabad during
  * IFFT
  * Example: Noise Removal in images: Converting to fft domain 
  
-[ Assignment 3](./Assignment 3)
+**Assignment 3**
 * Skeletonization
 * Morphological operations
 * Connected components: two-pass algorithm
